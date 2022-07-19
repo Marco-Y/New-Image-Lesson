@@ -13,8 +13,8 @@ void setup() {
   size (750, 500); //Landscape
   //
   //Population
-  pic1= loadImage("../Images/Landscape & Square/brain.jpeg"); //Dimensions: width 800, height 450
-  pic2= loadImage("../Images/Landscape & Square/bike.png"); //Dimensions: width 605, height 605
+  pic1= loadImage("Images/Landscape & Squares/brain.jpeg"); //Dimensions: width 800, height 450
+  pic2= loadImage("Images/Landscape & Squares/bike.png"); //Dimensions: width 605, height 605
   //Dimensions found by right click image / get info
   //Algorithm: Find the larger dimension for aspect ratio (comparison of two numbers)
   int picWidth1 = 800;
